@@ -1,6 +1,6 @@
 {
   "name": "brolly-ui-button",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An interactive element that accepts click based user input",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -14,8 +14,9 @@
     "dev": "tsc --watch"
   },
   "dependencies": {
-    "brolly-ui-box": "^0.1.0",
-    "brolly-ui-core": "^0.1.0",
-    "brolly-ui-variants": "^0.1.0"
-  }
+    "brolly-ui-box": "^0.1.1",
+    "brolly-ui-core": "^0.1.1",
+    "brolly-ui-variants": "^0.1.1"
+  },
+  "gitHead": "ff4a6b851c0136a003a080ece9914e4554017d56"
 }

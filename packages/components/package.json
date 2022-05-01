@@ -1,6 +1,6 @@
 {
   "name": "@brolly-ui/components",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "All UI components from the Zenny UI design system",
   "keywords": [
     "components",
@@ -32,7 +32,11 @@
     "url": "https://github.com/whoisryosuke/design-systems-monorepo/issues"
   },
   "dependencies": {
-    "brolly-ui-box": "^0.1.0",
-    "brolly-ui-button": "^0.1.0"
+    "brolly-ui-box": "^0.1.1",
+    "brolly-ui-button": "^0.1.1"
+  },
+  "gitHead": "ff4a6b851c0136a003a080ece9914e4554017d56",
+  "publishConfig": {
+    "access": "public"
   }
 }
