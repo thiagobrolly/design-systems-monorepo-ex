@@ -1,6 +1,6 @@
 {
   "name": "brolly-ui-box",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Base component that acts like a super powered div",
   "keywords": [
     "box",
@@ -30,7 +30,7 @@
     "url": "https://github.com/whoisryosuke/design-systems-monorepo/issues"
   },
   "dependencies": {
-    "brolly-ui-core": "^0.1.1"
+    "brolly-ui-core": "^0.1.2"
   },
-  "gitHead": "ff4a6b851c0136a003a080ece9914e4554017d56"
+  "gitHead": "4fc3191661cc48ccd99f7059d5c594e885b4096c"
 }
